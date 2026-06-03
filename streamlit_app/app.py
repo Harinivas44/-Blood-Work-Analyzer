@@ -6,7 +6,7 @@ load_dotenv()
 
 st.set_page_config(page_title="Blood Work Analyzer", layout="wide")
 
-llm = ChatGoogleGenerativeAI(model="gemma-4-31b-it",api_key='AIzaSyAWm8pTtzNvxHrm7LSnKObcKbJXlm_tJt0')
+llm = ChatGoogleGenerativeAI(model="gemma-4-31b-it",api_key='########################')
 
 st.markdown("""
 <style>
