@@ -10,11 +10,11 @@ blood-work-analyzer/
 
 ├── app.py                      # Streamlit web application (main UI)
 
-├── Blood_Work_Analysis.ipynb   # Jupyter Notebook (prototype & experimentation)
+├── Blood_Work_Analysis.ipynb   # Jupyter Notebook
 
-├── blood_work.txt              # Sample blood report (Rajesh Sharma, May 2026)
+├── blood_work.txt              # Sample blood report
 
-├── .env                        # API key storage (not committed to Git)
+├── .env                        # API key storage
 
 ├── requirements.txt            # Python dependencies
 
