@@ -3,13 +3,21 @@
 An AI-powered blood report analysis tool that extracts abnormal values, generates a plain-language health summary, and recommends a personalized Indian diet plan — powered by Google Gemma (gemma-4-31b-it) via LangChain.
 
 ### Project Structure
+
 blood-work-analyzer/
+
 │
+
 ├── app.py                      # Streamlit web application (main UI)
+
 ├── Blood_Work_Analysis.ipynb   # Jupyter Notebook (prototype & experimentation)
+
 ├── blood_work.txt              # Sample blood report (Rajesh Sharma, May 2026)
+
 ├── .env                        # API key storage (not committed to Git)
+
 ├── requirements.txt            # Python dependencies
+
 └── README.md                   # Project documentation
 
 ### 🧠 What It Does
